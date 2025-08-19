@@ -15,9 +15,6 @@ Hey! I’m Hari, a  passionate programmer about building scalable web apps & exp
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hari040219&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hari040219&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Hari040219&icon=0&color=0)](https://visitcount.itsvg.in)
 
