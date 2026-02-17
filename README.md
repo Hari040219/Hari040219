@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m Hari, a  passionate programmer about building scalable web apps & experimenting with cool tech.<br>MERN, Java, SQL, React, Node, Python, C<br>Currently building a stock market analysis platform<br>Sharpening my Problem-solving with Java + HackerRank<br>Let’s collaborate on open-source projects
+Hey! I’m Hari, a  passionate programmer about building scalable web apps & experimenting with cool tech.<br>MERN, Java, SQL, React, Node, Python, C<br>Currently building a Video Streaming platform<br>Sharpening my Problem-solving with Java + HackerRank<br>Let’s collaborate on open-source projects
 
 
 ## 🌐 Socials:
