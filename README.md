@@ -1,5 +1,5 @@
 #  About Me:
-Hey! I’m Hari, I docoding for fun <br>
+Hey! I’m Hari, I do coding for fun <br>
 
 
 ## 🌐 Socials:
