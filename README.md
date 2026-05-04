@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey! I’m Hari, Building CreVault.<br>CreVault is a platform where fans can directly invest their money in Film makers and Content Creators they belive in<br>
+#  About Me:
+Hey! I’m Hari, I docoding for fun <br>
 
 
 ## 🌐 Socials:
